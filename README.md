@@ -84,7 +84,10 @@ npm start
 ```
 
 ## © 2026 Kavya Cheruku
-<img width="1913" height="870" alt="Screenshot 2026-06-02 181730" src="https://github.com/user-attachments/assets/bc844e0d-b983-4ca9-82c8-0f989c74731f" />
+<img width="1913" height="870" alt="Screenshot 2026-06-02 181730" src="https://github.com/user-attachments/assets/2238c7a2-0dd7-4533-81f3-3a8ade0d685c" />
+<img width="1909" height="870" alt="Screenshot 2026-06-02 181748" src="https://github.com/user-attachments/assets/1f0f0743-3512-4271-8404-71580a2d51c0" />
+<img width="758" height="833" alt="Screenshot 2026-06-02 181814" src="https://github.com/user-attachments/assets/ba772e2a-57d5-4de5-b81e-6d916712fa08" />
+
 
 
 
