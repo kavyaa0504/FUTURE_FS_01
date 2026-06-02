@@ -84,6 +84,7 @@ npm start
 ```
 
 ## © 2026 Kavya Cheruku
+<img width="1913" height="870" alt="Screenshot 2026-06-02 181730" src="https://github.com/user-attachments/assets/bc844e0d-b983-4ca9-82c8-0f989c74731f" />
 
 
 
