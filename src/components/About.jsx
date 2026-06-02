@@ -19,12 +19,9 @@ function About() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
         >
-          <h2>AI-focused learner with a software development mindset.</h2>
+          <h2>Motivated final-year B.Tech AIML student</h2>
           <p>
-            I am a third-year B.Tech student specializing in Artificial Intelligence and Machine Learning. I have a strong foundation in Python, Java, and C programming, and I love building impactful AI-powered applications.
-          </p>
-          <p>
-            I am actively seeking internship opportunities in AI/ML and software development while sharpening my skills through projects, certifications, and hands-on experimentation.
+            Motivated final-year B.Tech AIML student with skills in Python, Machine Learning, SQL, and Data Analytics. Passionate about AI-driven solutions and seeking an entry-level opportunity to contribute and grow in the field of software development and artificial intelligence.
           </p>
         </motion.div>
         <motion.div
