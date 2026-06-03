@@ -1,0 +1,18 @@
+{
+  "name": "leadflow-crm",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "install:all": "npm install --workspaces",
+    "start": "npx concurrently \"npm run start:server\" \"npm run start:client\"",
+    "start:server": "npm --prefix server start",
+    "start:client": "npm --prefix client run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
