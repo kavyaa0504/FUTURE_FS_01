@@ -66,4 +66,7 @@ node seedAdmin.js
 
 - Make sure MongoDB is running locally.
 - Update the `.env` file if you need a different database URL or secret.
-  
+   <img width="837" height="776" alt="Screenshot 2026-06-03 120840" src="https://github.com/user-attachments/assets/71aebdf7-00da-4aab-bbb5-a216ab035e33" />
+<img width="1893" height="828" alt="Screenshot 2026-06-03 121848" src="https://github.com/user-attachments/assets/ffdf18b0-6d1a-469d-aa5c-520eede2b530" />
+<img width="1864" height="847" alt="Screenshot 2026-06-03 121907" src="https://github.com/user-attachments/assets/00e7ad58-4e0c-42fa-9cf9-9fc62926a7fb" />
+<img width="1826" height="849" alt="Screenshot 2026-06-03 121922" src="https://github.com/user-attachments/assets/c929f008-291d-4e0e-93d3-c42b10fe469f" />
